@@ -1,0 +1,168 @@
+body{height: 2500px !important;;
+overflow-x: hidden;}
+.navbar-brand img{border-radius:5px 0 5px 0; margin: -30px 80px;}
+.nav-link{margin: 0 50px;}
+.d-flex{margin-right: 30px;}
+.btn-primary{margin: 0 20px !important;
+background-color: rgb(173, 126, 56)!important;
+border:0 !important;
+border-radius:3px !important;
+width:80px !important;}
+.navbar{height:50px !important;}
+.form-control{border:0;
+    border-radius:3px !important;
+width:270px !important;}
+.d-blocks{background-image: url(../images/download.jpg5344.jpg);
+}
+.d-block,.d-block-2,.d-block-3{height:100vh;
+    background-size: cover;
+    background-position:center;}
+.d-block-2{background-image: url(../images/corner_claremont_rday_magazine4_upda.jpg);}
+    .d-block-3{background-image: url(../images/bigmarketing_03_eastentrancescaled.jpg); }
+        .carousel-caption{width:50vw;
+        height: 150px;
+    background-color: rgba(77, 76, 76, 0.481);
+transform: translate(20%);
+border-radius: 5px;}
+.btn{margin-top: -10px;
+height:40px;
+background-color: rgb(173, 126, 56)!important;}
+/* .container-fluid{height: 250px;} */
+.h-con,.p-con{
+font-size:28px;
+color:  rgb(173, 126, 56);}
+.p-con{
+    font-size:24px;}
+    .text-white{padding-top: 30px ; height: 150px !important;}
+#more{margin:10px 620px;
+border:0;}
+#demos{margin-left:-540px;}
+#design,#working,#urban{
+color:white;
+/* border-bottom:2px solid rgb(34, 32, 32); */
+height: 50px !important;
+margin-top: 0px!important;}
+#details{background-color: rgb(34, 32, 32);
+color:rgb(173, 126, 56);}
+#border-less{padding: 0 0 !important;
+    border:none !important;
+    height: 50px !important;
+    background-color: rgb(173, 126, 56);}
+    #back-ground{
+    height: 180px;}
+    #Specialties{
+    color:rgb(173, 126, 56) ;
+font-size:25px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+#design-sec{background-color:rgb(34, 32, 32)!important ;
+width: 100vw!important;
+margin-left:-13px!important ;
+height: 500px!important;}
+#cards-title{color:rgb(173, 126, 56);
+font-size:28px;
+padding-top: 15px;}
+ #img-1,#img-2,#img-3, #img-4,#img-5,#img-6,#img-7{
+    background-image:url(../images/download\ \(2\).jpg);
+background-position:0 -250px;
+background-size: cover;
+background-position:fixed;
+height: 280px;
+padding-top: 40px!important;
+border-radius: 20px;
+transition: 2s;} 
+#img-1:hover{transform: scale(1.1,1.1);}
+#all-sec-design{background-color:rgb(34, 32, 32) ;}
+#butn-card{
+background: none!important;
+}
+#button-d{width: 150px!important;
+   background-color:   rgb(54, 51, 46)!important}
+   /* .c-t1{margin-top: -200px;}
+   .h-t1{margin-top: -250px;} */
+ .pre-c1{font-size:18px;
+ overflow-x: hidden;
+transition: 1s;}
+ .pre-c1:hover,#p-3:hover,.pre-c6:hover{transform:scale(1.2);
+    opacity: 0;
+color:rgb(170, 124, 56) ;
+font-weight: bold;}
+
+#img-2{background-image:url(../images/bin-10_shenzhennaturalhistorymuseumviewf.jpg) !important;
+    background-position:center;}
+    .pre-c2{font-size: 15px;
+    padding-left: 40px;
+    transition: 2s;}
+ #img-2:hover,#img-3:hover,#img-6:hover{transform: scale(1.1,1.1);}
+ #f-back{background-image:url(../images/bin-001-103.jpg);
+height: 40vh;
+background-attachment: fixed;
+background-position:0 800px;
+background-size: cover;
+position: relative;}
+#f-back::after{
+    content: " ";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top:0;left: 0;
+    background-color: rgba(0, 0, 0, 0.345);}
+    #img-3{background-image:url(../images/385d5f9ac405be1631eb77f17a2991c5.jpg);}
+
+    #p-3,#h2-3{color: rgb(173, 126, 56);font-size: 16px; font-weight: bold;}
+    #p-3:hover{color:rgb(54, 51, 46) ;}
+    #img-4{background-image:url(../images/1e73f0e39baccac60325aad4dfbe66ca.jpg);
+    background-position:bottom;}
+    #img-5{background-image:url(../images/793ea1be51120d03a82f06f3470cb7e8.jpg);
+    background-position:top;}
+    #img-4:hover,#img-5:hover{transform: scale(1.1,1.1);}
+    #img-6{background-image: url(../images/919e5770c48ea9ab8de44e065911e9ad.jpg);
+    background-position:center!important;transition:1s !important;}
+    #img-7{background-image: url(../images/massismore_iaac_bauhausearth_adriago-1--2--3-.jpg);
+        background-position:bottom!important;
+    padding-left: 20px;}
+   #img-7:hover{transform: scale(1.1);}
+   .pre-c6{overflow-x: hidden;
+color: rgba(0, 0, 0, 0.763);
+font-weight: bold;
+transition: 1s;}
+.pre-c7{color: rgba(0, 0, 0, 0.763);
+font-weight: bold;
+font-size:17px;
+transition: 1s;}
+.pre-c7:hover{color: rgb(173, 126, 56);
+transform: scale(1.1);
+opacity: 0;}
+.offf{display: inline;
+background-color: yellow;}
+#canv{height:150px;
+background: none !important;}
+#button-w{width: 200px!important;
+    display: block!important;}
+.h-color
+#line-title{width:800px !important;
+height:200px !important;
+
+top: 200px!important;}
+#button-con{padding-top: 20px;}
+#title-job{color:rgb(173, 126, 56)}
+#sub{width: 180px !important;}
+#i-conn{font-size:25px !important;
+margin-right: 10px;}
+#about:hover{text-decoration: underline;}
+
+#read-m{width: 150px;
+margin:20px -30px!important;}
+.bac-g{height: 100px!important;
+
+width: 100vw!important;}
+#wel{padding-left: 100px!important;}
+.img-backi{background-image: url(../images/385d5f9ac405be1631eb77f17a2991c5.jpg);
+height: 250px;
+border-radius: 20px 20px;}
+.backk{background-color:rgb(34, 32, 32)!important ;}
+.bor-no{border: none!important;}
+.bbbb{background: none!important;
+transition:1s;}
+.bbbb :hover.img-backi {transform: scale(1.1);}
+.overlay .pre-c2{transition: 1.2s;}
+#size{height: 700px!important;}
